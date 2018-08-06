@@ -2,6 +2,7 @@ body {
     background-color: #3333ff;
     margin: 5px;
     border: 10px;
+    color: #eee;
 }
 footer {
     float: right;
@@ -10,7 +11,17 @@ footer {
  margin: 5px;
  border: 10px;
 }
+h1 {
+    font-size: 35px;
+}
 h2 {background-color:#3333ff;
-    margin: 5px;
+    padding: 20px 0;
+  margin: 10;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #eee;
+  text-align: center;
+  background: rgb(207, 18, 18);
+    
     border: 10px;
 }
