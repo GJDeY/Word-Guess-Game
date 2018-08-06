@@ -1,0 +1,16 @@
+body {
+    background-color: #3333ff;
+    margin: 5px;
+    border: 10px;
+}
+footer {
+    float: right;
+ align-content: center;
+ background-color: aqua;   
+ margin: 5px;
+ border: 10px;
+}
+h2 {background-color:#3333ff;
+    margin: 5px;
+    border: 10px;
+}
